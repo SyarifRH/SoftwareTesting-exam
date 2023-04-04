@@ -6,13 +6,11 @@ Team Member:
 
 URL to Test:
 
-Test Case : <br>
-
-Test Plan Document : <br>
+Test Case : https://docs.google.com/spreadsheets/d/1t1azUkdJQA86TQeLY51Ae_WZxX-l2Vj9/edit?usp=sharing&ouid=104832220886143347113&rtpof=true&sd=true <br>
 
 Automation Used:<br>
-*Selenium<br>
-*Phyton<br>
+*Katalon Studio<br>
+
 
 Browser For Testing : <br>
 
